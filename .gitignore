@@ -1,0 +1,28 @@
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+.tox/
+venv/
+env/
+ENV/
+env.bak/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Config files (if containing sensitive data)
+*.local
